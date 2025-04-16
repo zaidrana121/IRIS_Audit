@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\ASTSchoolManagement-API-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.service\\fees\\feeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|solutionrelative:astsm.service\\fees\\feeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.data\\repositories\\fees\\feerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|solutionrelative:astsm.data\\repositories\\fees\\feerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.service\\projects\\projectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|solutionrelative:astsm.service\\projects\\projectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.data\\context\\astsmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|solutionrelative:astsm.data\\context\\astsmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.model\\dbmodels\\astsprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|solutionrelative:astsm.model\\dbmodels\\astsprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.model\\dtos\\projects\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|solutionrelative:astsm.model\\dtos\\projects\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.service\\projects\\iprojectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|solutionrelative:astsm.service\\projects\\iprojectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.model\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|solutionrelative:astsm.model\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.model\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|solutionrelative:astsm.model\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.data\\repositories\\projects\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|solutionrelative:astsm.data\\repositories\\projects\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\astsm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\astsm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.data\\repositories\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|solutionrelative:astsm.data\\repositories\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.data\\repositories\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|solutionrelative:astsm.data\\repositories\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.data\\repositories\\projects\\iprojectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E77075F-3996-4E3A-AD8C-EA00350F6B05}|ASTSM.Data\\ASTSM.Data.csproj|solutionrelative:astsm.data\\repositories\\projects\\iprojectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\controllers\\feecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\controllers\\feecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.service\\grades\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131FCE58-1F05-4A0B-A07E-7358D7BD96A8}|ASTSM.Service\\ASTSM.Service.csproj|solutionrelative:astsm.service\\grades\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|e:\\projects\\astschoolmanagement-api-main\\astsm.model\\dtos\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A3456-63DE-419C-B15A-1E4948FE132E}|ASTSM.Model\\ASTSM.Model.csproj|solutionrelative:astsm.model\\dtos\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|e:\\projects\\astschoolmanagement-api-main\\astschoolmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4679A06E-ED7A-4F02-AB72-2CC8F9CAB18F}|ASTSchoolManagement\\ASTSM.csproj|solutionrelative:astschoolmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\DbModels\\User.cs",
+              "RelativeDocumentMoniker": "ASTSM.Model\\DbModels\\User.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\DbModels\\User.cs",
+              "RelativeToolTip": "ASTSM.Model\\DbModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:22:25.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\Dtos\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "ASTSM.Model\\Dtos\\Users\\UserDto.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\Dtos\\Users\\UserDto.cs",
+              "RelativeToolTip": "ASTSM.Model\\Dtos\\Users\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:21:10.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASTSchoolManagement\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:19:15.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\Controllers\\TokenController.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "ASTSchoolManagement\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:18:50.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Common.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Common.cs",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\Common.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Common.cs",
+              "RelativeToolTip": "ASTSchoolManagement\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:36:11.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ASTSM",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\ASTSM.csproj",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\ASTSM.csproj",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\ASTSM.csproj",
+              "RelativeToolTip": "ASTSchoolManagement\\ASTSM.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T11:13:22.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASTSM.Data\\Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "ASTSM.Data\\Repositories\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:05:18.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASTSM.Data\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "ASTSM.Data\\Repositories\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:04:35.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeeRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\Fees\\FeeRepository.cs",
+              "RelativeDocumentMoniker": "ASTSM.Data\\Repositories\\Fees\\FeeRepository.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\Fees\\FeeRepository.cs",
+              "RelativeToolTip": "ASTSM.Data\\Repositories\\Fees\\FeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:04:04.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\Controllers\\ProjectsController.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ASTSchoolManagement\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:01:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeeController.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\FeeController.cs",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\Controllers\\FeeController.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\FeeController.cs",
+              "RelativeToolTip": "ASTSchoolManagement\\Controllers\\FeeController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:00:22.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeeService.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Fees\\FeeService.cs",
+              "RelativeDocumentMoniker": "ASTSM.Service\\Fees\\FeeService.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Fees\\FeeService.cs",
+              "RelativeToolTip": "ASTSM.Service\\Fees\\FeeService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:59:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AstsProjects.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\DbModels\\AstsProjects.cs",
+              "RelativeDocumentMoniker": "ASTSM.Model\\DbModels\\AstsProjects.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\DbModels\\AstsProjects.cs",
+              "RelativeToolTip": "ASTSM.Model\\DbModels\\AstsProjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:55:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProjectsService.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Projects\\IProjectsService.cs",
+              "RelativeDocumentMoniker": "ASTSM.Service\\Projects\\IProjectsService.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Projects\\IProjectsService.cs",
+              "RelativeToolTip": "ASTSM.Service\\Projects\\IProjectsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:40:06.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProjectsRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\Projects\\IProjectsRepository.cs",
+              "RelativeDocumentMoniker": "ASTSM.Data\\Repositories\\Projects\\IProjectsRepository.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\Projects\\IProjectsRepository.cs",
+              "RelativeToolTip": "ASTSM.Data\\Repositories\\Projects\\IProjectsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:36:31.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectsRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\Projects\\ProjectsRepository.cs",
+              "RelativeDocumentMoniker": "ASTSM.Data\\Repositories\\Projects\\ProjectsRepository.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Repositories\\Projects\\ProjectsRepository.cs",
+              "RelativeToolTip": "ASTSM.Data\\Repositories\\Projects\\ProjectsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:32:21.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectsService.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Projects\\ProjectsService.cs",
+              "RelativeDocumentMoniker": "ASTSM.Service\\Projects\\ProjectsService.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Projects\\ProjectsService.cs",
+              "RelativeToolTip": "ASTSM.Service\\Projects\\ProjectsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:25:54.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASTSMDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Context\\ASTSMDbContext.cs",
+              "RelativeDocumentMoniker": "ASTSM.Data\\Context\\ASTSMDbContext.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Data\\Context\\ASTSMDbContext.cs",
+              "RelativeToolTip": "ASTSM.Data\\Context\\ASTSMDbContext.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAA2wHEBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:23:23.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsDto.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\Dtos\\Projects\\ProjectsDto.cs",
+              "RelativeDocumentMoniker": "ASTSM.Model\\Dtos\\Projects\\ProjectsDto.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\Dtos\\Projects\\ProjectsDto.cs",
+              "RelativeToolTip": "ASTSM.Model\\Dtos\\Projects\\ProjectsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:21:13.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\Dtos\\Students\\StudentDto.cs",
+              "RelativeDocumentMoniker": "ASTSM.Model\\Dtos\\Students\\StudentDto.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Model\\Dtos\\Students\\StudentDto.cs",
+              "RelativeToolTip": "ASTSM.Model\\Dtos\\Students\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:20:49.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Grades\\GradeService.cs",
+              "RelativeDocumentMoniker": "ASTSM.Service\\Grades\\GradeService.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSM.Service\\Grades\\GradeService.cs",
+              "RelativeToolTip": "ASTSM.Service\\Grades\\GradeService.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAA3wFAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:40:54.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\Controllers\\GradeController.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "ASTSchoolManagement\\Controllers\\GradeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:40:28.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Startup.cs",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\Startup.cs",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\Startup.cs",
+              "RelativeToolTip": "ASTSchoolManagement\\Startup.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAzwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:57:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\appsettings.json",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\appsettings.json",
+              "RelativeToolTip": "ASTSchoolManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T07:57:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASTSchoolManagement\\appsettings.Development.json",
+              "ToolTip": "E:\\Projects\\ASTSchoolManagement-API-main\\ASTSchoolManagement\\appsettings.Development.json",
+              "RelativeToolTip": "ASTSchoolManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T07:57:15.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

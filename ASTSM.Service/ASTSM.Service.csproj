@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASTSM.Data\ASTSM.Data.csproj" />
+    <ProjectReference Include="..\ASTSM.Model\ASTSM.Model.csproj" />
+    <ProjectReference Include="..\ASTSM.Utlis\ASTSM.Utlis.csproj" />
+  </ItemGroup>
+
+</Project>
